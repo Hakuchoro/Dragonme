@@ -11,12 +11,14 @@
             "id": "fda79017e5e0e92a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152445.png"
+                "file": "Drag On Me - pré-ideia/Gameplay.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260630152445"
+              "icon": "lucide-file",
+              "title": "Gameplay"
             }
           }
         ]
@@ -181,28 +183,37 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "02f3feea71b35e57",
+  "active": "fda79017e5e0e92a",
   "lastOpenFiles": [
-    "Drag On Me - pré-ideia/Designs/Os quatro heróis.md",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630154005.png",
+    "Drag On Me - pré-ideia/Raças/Vermelho.md",
+    "Drag On Me - pré-ideia/Gameplay.md",
+    "Drag On Me - pré-ideia/Classes/Vanguarda.md",
+    "Ideias Iniciais.md",
+    "Bem-vindo.md",
+    "Drag On Me - pré-ideia/Atributos.md",
+    "Drag On Me - pré-ideia/Prestígios/Berserker.md",
+    "Drag On Me - pré-ideia/Classes/Guardião.md",
     "Drag On Me - pré-ideia/Designs/Protagonistas.md",
+    "Drag On Me - pré-ideia/Designs/Os quatro heróis.md",
+    "Drag On Me - pré-ideia/Prestígios",
+    "Drag On Me - pré-ideia/Classes",
+    "Drag On Me - pré-ideia/Raças",
+    "Drag On Me - pré-ideia/Designs/Estilo de arte.md",
+    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152445.png",
+    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630154005.png",
     "Drag On Me - pré-ideia/Designs/Para ver mais tarde/Designs possíveis.md",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630153058.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152857.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152525.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152445.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630145525.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152038.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152032.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152024.png",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152018.png",
     "Drag On Me - pré-ideia/Designs/Para ver mais tarde",
-    "Bem-vindo.md",
     "Sem título.base",
     "Sem título 2.base",
     "Sem título 1.base",
-    "Drag On Me - pré-ideia/Designs/Estilo de arte.md",
-    "Ideias Iniciais.md",
     "Drag On Me - pré-ideia",
     "Drag On Me - pré-ideia/Designs/Imagens",
     "Drag On Me - pré-ideia/Designs",
