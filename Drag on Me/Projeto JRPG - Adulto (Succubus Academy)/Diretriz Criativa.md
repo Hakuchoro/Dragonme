@@ -29,7 +29,7 @@ Lista de Deadlines:
 
 	A princesa do reino X repentinamente precisa assumir o trono depois do desaparecimento de seu pai. Ela descobre que lidar com as intrigas da corte são mais pesadas do que parece enquanto desvenda a conspiração do conselheiro real, precisando se corromper pra restaurar seu país.
 
-**PROPOSTA #2: Succubus Academy: Hentai JRPG Game**
+**PROPOSTA #2: Succubus Academy: Hentai JRPG Game**  **✓**
 
 	Uma maga auto-ditada recebe um convite para lecionar em uma academia muito prestigiada. Quando chega lá, descobre que todas alunas são demônios e ela foi confundida com uma súcubo. Ela precisa tentar arranjar um jeito de escapar enquanto mantém sua verdadeira identidade oculta.
 

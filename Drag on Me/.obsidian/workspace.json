@@ -11,9 +11,21 @@
             "id": "fda79017e5e0e92a",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012243.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260803012243"
+            }
+          },
+          {
+            "id": "73005d126a958260",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto JRPG - Adulto/Diretriz Criativa.md",
+                "file": "Projeto JRPG - Adulto (Succubus Academy)/Diretriz Criativa.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +33,8 @@
               "title": "Diretriz Criativa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,17 +196,30 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fda79017e5e0e92a",
+  "active": "02f3feea71b35e57",
   "lastOpenFiles": [
-    "Projeto JRPG - Adulto/Tarefas/Tasks de Arte.md",
-    "Projeto JRPG - Adulto/Tarefas/Tasks de Programação.md",
-    "Projeto JRPG - Adulto/Diretriz Criativa.md",
-    "Projeto JRPG - Adulto/Tarefas/Tasks de Roteiro.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012638.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012243.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Personagens.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803015545.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803014320.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803013324.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803013315.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803013314.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012940.png",
+    "Pasted image 20260803012245.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Estrutura Narrativa.md",
+    "Projeto JRPG - Adulto/Tarefas/Sem título.md",
     "Projeto JRPG - Adulto/Bem-vindo.md",
-    "Projeto JRPG - Adulto/Tarefas",
+    "Projeto JRPG - Adulto (Succubus Academy)/Diretriz Criativa.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Programação.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Arte.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Roteiro.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Tarefas",
     "Drag On Me - pré-ideia/Ideias Iniciais.md",
     "Drag On Me - pré-ideia/Gameplay.md",
-    "Projeto JRPG - Adulto",
+    "Projeto JRPG - Adulto (Succubus Academy)",
     "Drag On Me - pré-ideia/Raças/Vermelho.md",
     "Drag On Me - pré-ideia/Classes/Vanguarda.md",
     "Drag On Me - pré-ideia/Atributos.md",
@@ -206,21 +232,11 @@
     "Drag On Me - pré-ideia/Raças",
     "Drag On Me - pré-ideia/Designs/Estilo de arte.md",
     "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152445.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630154005.png",
     "Drag On Me - pré-ideia/Designs/Para ver mais tarde/Designs possíveis.md",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630153058.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152857.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152525.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630145525.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152038.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152032.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152024.png",
-    "Drag On Me - pré-ideia/Designs/Imagens/Pasted image 20260630152018.png",
     "Drag On Me - pré-ideia/Designs/Para ver mais tarde",
     "Sem título.base",
     "Sem título 2.base",
     "Sem título 1.base",
-    "Drag On Me - pré-ideia",
     "crie um link.md",
     "Sem título.canvas"
   ]
