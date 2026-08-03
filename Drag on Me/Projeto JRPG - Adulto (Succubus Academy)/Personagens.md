@@ -1,4 +1,4 @@
-![[Pasted image 20260803012245.png]]Aluna 1 - Valik (Cabelo branco)
+![[Pasted image 20260803012243.png]]Aluna 1 - Valik (Cabelo branco)
 
 ![[Pasted image 20260803012638.png]]
 Aluna 2 - Amy (com mais curva, ruiva)

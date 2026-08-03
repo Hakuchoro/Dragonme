@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projeto JRPG - Adulto (Succubus Academy)/Diretriz Criativa.md",
+                "file": "Projeto JRPG - Adulto (Succubus Academy)/Personagens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diretriz Criativa"
+              "title": "Personagens"
             }
           }
         ],
@@ -196,11 +196,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "02f3feea71b35e57",
+  "active": "73005d126a958260",
   "lastOpenFiles": [
-    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012638.png",
     "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012243.png",
+    "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803012638.png",
     "Projeto JRPG - Adulto (Succubus Academy)/Personagens.md",
+    "Projeto JRPG - Adulto (Succubus Academy)/Diretriz Criativa.md",
     "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia",
     "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803015545.png",
     "Projeto JRPG - Adulto (Succubus Academy)/Arte de Referencia/Pasted image 20260803014320.png",
@@ -212,7 +213,6 @@
     "Projeto JRPG - Adulto (Succubus Academy)/Estrutura Narrativa.md",
     "Projeto JRPG - Adulto/Tarefas/Sem título.md",
     "Projeto JRPG - Adulto/Bem-vindo.md",
-    "Projeto JRPG - Adulto (Succubus Academy)/Diretriz Criativa.md",
     "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Programação.md",
     "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Arte.md",
     "Projeto JRPG - Adulto (Succubus Academy)/Tarefas/Tasks de Roteiro.md",
