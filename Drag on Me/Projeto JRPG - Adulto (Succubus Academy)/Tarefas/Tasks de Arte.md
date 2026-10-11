@@ -1,3 +1,16 @@
+** Bloco de Personagens #1**
+- [x] Sketch e Lineart Baymon
+- [x] Sketch e Lineart Roneve
+- [x] Sketch e Lineart Valik
+- [x] Sketch e Lineart Amy
+- [x] Sketch e Lineart Lily
+
+** Bloco de Personagens #2**
+- [x] Render Baymon
+- [x] Render Roneve
+- [x] Render Valik
+- [x] Render Amy
+- [x] Render Lily
 
 **CG - Bloco de Lineart #1**
 - [ ] Sketch e Lineart #1
@@ -23,6 +36,7 @@
 - [ ] Sketch e Lineart #15
 - [ ] Sketch e Lineart #16
 
+
 **CG - Bloco de Render #1**
 - [ ] Render #1
 - [ ] Render #2
@@ -46,3 +60,5 @@
 - [ ] Render #14
 - [ ] Render #15
 - [ ] Render #16
+
+
